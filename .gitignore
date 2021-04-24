@@ -1,0 +1,14 @@
+.DS_Store
+
+*.log
+
+.idea
+.vscode
+.project
+.settings
+.svn
+
+node_modules/
+
+yarn.lock
+log

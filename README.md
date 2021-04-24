@@ -1,2 +1,1 @@
-# millau
-承接前端研发构建流程的服务
+# 承接gitlab的hook服务
